@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<widget xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0" id="com.moodle.moodlemobile" version="3.3.1">
-    <name>Moodle Mobile</name>
+<widget xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0" id="com.openuniversityoftanzania.outlems" version="3.3.1">
+    <name>OUTLeMS</name>
     <description>
-        Moodle Mobile official app
+        Moodle Mobile official app for Open University of Tanzania
     </description>
-    <author href="http://moodle.com" email="mobile@moodle.com">
-        Moodle Mobile team
+    <author href="http://out.ac.tz" email="fragma093@gmail.com">
+        Francis Mashalla
     </author>
     <content src="index.html"/>
     <access origin="*"/>
